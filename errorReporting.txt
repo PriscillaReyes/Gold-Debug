@@ -1,0 +1,191 @@
+ERROR REPORT - LEVEL 3, GOLD
+==============================
+
+Below you will write your debugging report by answering the following questions about the 15 errors you found.
+
+-----------------------------------------------------------------------
+HTML ERRORS - You will find the following errors in index.html
+ERROR 1
+=======
+
+1. What line did you find the error?
+Line 4 of index.html
+
+
+2.What was the error and how did you fix it?
+The href was equal to css. It is supposed to equal to style.css because if it is not written correctly it will not work. I fixed this by writing style.css
+
+
+
+ERROR 2
+=======
+
+1. What line did you find the error?
+Line 54 of style css
+
+
+2.What was the error and how did you fix it?
+The image did not have the correct measurments. It was supposed to equal Height 350px and Width 300px. I fixed this by adding the height and width. 
+
+
+
+
+ERROR 3
+=======
+
+1. What line did you find the error?
+Line 1 of style css
+
+
+2.What was the error and how did you fix it?
+It said div but it was supposed to be body. I fixed this by changing it to body. You have to write body in css instead of div 
+
+
+
+
+ERROR 4
+=======
+
+1. What line did you find the error?
+Line 15 of index.html
+
+2.What was the error and how did you fix it?
+I added a header 2 style and color #BD33FF for the Scottish Singer so it would appear
+
+
+ERROR 5
+=======
+
+1. What line did you find the error?
+Line 11 in index.html
+
+
+2.What was the error and how did you fix it?
+The Scottish Singer header was black instead of BD33FF. I fixed this by adding <p style="color:#BD33FF;" to change the color.
+
+
+ERROR 6
+=======
+
+1. What line did you find the error?
+Line 12 in index.html
+
+
+2.What was the error and how did you fix it?
+I added the body style to make the right measurements in the body. 
+
+x 
+ERROR 7
+=======
+
+1. What line did you find the error?
+Line 14 of index html
+
+
+
+2.What was the error and how did you fiit?
+I added a header 1 style and color of FFFF for Lewis Capaldi for the Lewis Capaldi to appear
+ 
+
+
+ERROR 8
+=======
+
+1. What line did you find the error?
+Line 21 of index.html
+
+
+
+2.What was the error and how did you fix it?
+I added a hyper link for the website in order to be able to see the website link and I also added a color rgb so that there would be the two colors needed.
+
+
+
+________________________________________________________________________
+
+CSS ERRORS - You will find the following errors in style.css
+
+ERROR 9
+=======
+
+1. What line did you find the error?
+Line 16 in style css
+
+
+2.What was the error and how did you fix it?
+The birthday did not have the # in front of it. Without this it will not function. I fixed it by adding the # in front 
+
+
+ERROR 10
+=======
+
+1. What line did you find the error?
+Line 20 in style css
+
+
+
+2.What was the error and how did you fix it?
+The birthplace did not have the # in front of it. Without this it will not function. I fixed it by adding the # in front
+
+
+
+ERROR 11
+=======
+
+1. What line did you find the error?
+Line 4 of style css
+
+
+2.What was the error and how did you fix it?
+The body does not have a overflow center. It was hidden. It needed to be overflow for the video image to be shown properly.
+
+
+
+ERROR 12
+=======
+
+1. What line did you find the error?
+Line 8 of style css
+
+
+
+2.What was the error and how did you fix it?
+There needed to be a flex direction column in the body of css.
+ 
+
+
+ERROR 13
+=======
+
+1. What line did you find the error?
+Line 34 of style css
+
+
+
+2.What was the error and how did you fix it?
+The starsign did not have a # in front of it. Without this it will not function. I fixed it by adding the # in front 
+
+
+ERROR 14
+=======
+
+1. What line did you find the error?
+Line 58 of style css
+
+
+
+2.What was the error and how did you fix it?
+The music video did not have a # in front of it. Without this it will not function. I fixed it by adding the # in front. Also I added text-decoration: underline; for the text to be shown properly
+
+
+ERROR 15
+=======
+
+1. What line did you find the error?
+Line 48 of style css
+
+
+
+2.What was the error and how did you fix it?
+The firstsingle did not have a # in front of it. Without this it will not function. I fixed it by adding the # in front. Also I added text-decoration: underline; for the text to be shown properly
+
